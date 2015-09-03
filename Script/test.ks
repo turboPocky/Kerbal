@@ -1,3 +1,0 @@
-clearscreen.
-print "hellO!".
-
