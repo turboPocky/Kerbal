@@ -1,0 +1,3 @@
+clearscreen.
+print "hellO!".
+
